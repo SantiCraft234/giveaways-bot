@@ -40,14 +40,7 @@ Hi! This is a repository for a simple **discord giveaway bot**, this discord bot
 | `giveawayMention` | (Boolean) This determines if there will be a role mentioned. |
 | `giveawayManagerID` | (String) This options lets the bot know who is able to start giveaways. Default (empty) will be set to any user with MANAGE_MESSAGES permission. Has to be a user ID. |
 
-**Step 2:** Install dependencies (only the first time)
-- Windows:
-  - Run `setup.bat` file
-- Linux:
-  - Run `npm i` command
+**Step 2:** Start the bot
 
-**Step 3:** Start the bot
-- Windows:
-  - Run `start.bat` file
-- Linux:
   - Run `node index.js` command
+
